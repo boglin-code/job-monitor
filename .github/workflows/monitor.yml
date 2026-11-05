@@ -1,0 +1,27 @@
+name: Job monitor
+on:
+  schedule:
+    - cron: "0 7,13 * * *"   # 07:00 and 13:00 UTC (7am and 1pm UK in winter)
+  workflow_dispatch:          # lets you press "Run workflow" manually
+permissions:
+  contents: write
+  issues: write
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests beautifulsoup4
+      - run: python monitor.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Save what was seen
+        run: |
+          git config user.name "job-monitor"
+          git config user.email "job-monitor@users.noreply.github.com"
+          git add seen.json
+          git diff --staged --quiet || git commit -m "Update seen jobs"
+          git push
