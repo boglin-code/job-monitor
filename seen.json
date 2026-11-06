@@ -1,6 +1,26 @@
 {
  "Centre for Long-Term Resilience": {
-  "fails": 1
+  "seen": [
+   "AI Policy Manager/ Senior AI Policy Manager|https://www.longtermresilience.org/hiring-ai-policy-manager-jun-2025/",
+   "AI Team Delivery Product Manager – Contractor, closing 9am UK time, Friday 18th September|https://www.longtermresilience.org/delivery-product-manager-loss-of-control-observatory/",
+   "Analyst, Loss of Control Incidents (Contractor), closing 9:00 UK time, Monday 19th of October 2026|https://docs.google.com/document/d/14xIl49tR0ChtZgiVGTUJdbZdNRr9CBh6y4oUFK0SeKg/edit?usp=sharing",
+   "Biosecurity Fellowship Manager, closing 9am UK time, Monday 03 August 2026|https://www.longtermresilience.org/were-hiring-biosecurity-fellowship-manager/",
+   "Biosecurity Policy Associate Director or Deputy Director|https://www.longtermresilience.org/we-are-hiring-for-a-biosecurity-policy-associate-deputy-director/",
+   "Biosecurity Policy Manager,|https://www.longtermresilience.org/we-are-hiring-for-a-biosecurity-policy-manager/",
+   "Communications Associate, closing 15 May 2026 at 23:59 Anywhere on Earth|https://www.longtermresilience.org/were-hiring-communications-associate/",
+   "Director of AI Policy|https://www.longtermresilience.org/we-are-hiring-for-a-director-of-ai-policy/",
+   "Director of Operations|https://www.saxbam.com/appointment/the-centre-for-long-term-resilience-cltr/",
+   "Open Call for Contractors (AI, Biosecurity and AI-Bio work), rolling applications|https://www.longtermresilience.org/open-call-for-contractor-opportunities-ai-biosecurity-and-ai-bio-work/",
+   "Operations Associate (AI or Biosecurity unit), closing 9am UK time, Monday 1 July 2026|https://www.longtermresilience.org/were-hiring-operations-associate-ai-or-biosecurity-unit/",
+   "Operations Associate (Core Operations Team), closing 12:00 UK time , Monday 5 October 2026|https://docs.google.com/document/d/1OgcatwLPakpvW_MIkt-n7-bUC9K3aEqF4Nzh7CcTywM/edit?usp=sharing",
+   "Operations Manager, closing 9am UK time, Monday 22 June 2026|https://www.longtermresilience.org/?p=3067&preview=true",
+   "People Operations Manager,|https://www.longtermresilience.org/we-are-hiring-for-a-people-operations-manager/",
+   "Publications editor, now closed|https://www.longtermresilience.org/cltr-publications-editor-contractor/",
+   "Strategic Communications Lead, closing 21 May 2026 at 23:59 Anywhere on Earth|https://www.longtermresilience.org/hiring-strategic-communications-lead/",
+   "Strategic Partnerships and Philanthropy Manager, closing 9am UK time, Monday 22 June 2026|https://www.longtermresilience.org/were-hiring-strategic-partnerships-and-philanthropy-manager/",
+   "Technical AI safety: Infrastructure Engineer, closing 9am UK time, Monday 03 August 2026|https://www.longtermresilience.org/technical-ai-safety-infrastructure-engineer/"
+  ],
+  "fails": 0
  },
  "Campaign Bootcamp": {
   "seen": [],
@@ -45,7 +65,7 @@
   "fails": 0
  },
  "Ember": {
-  "fails": 1
+  "fails": 2
  },
  "Global Canopy": {
   "seen": [
@@ -180,6 +200,7 @@
  },
  "Change.org UK": {
   "seen": [
+   "3 Month Fixed Term Video Producer|https://jobs.ashbyhq.com/change/24b783c1-52d8-49ca-9acc-d525e460c414",
    "6 month Fixed Term Lead Product Designer, Lifecycle|https://jobs.ashbyhq.com/change/15f525ef-0d9d-42b7-8fe8-eec6168ea42d",
    "Communications Manager, Italy|https://jobs.ashbyhq.com/change/6e385174-ef7f-427c-81bc-1ee1a03af497",
    "Head of Change.org, Germany - (Sr. Marketing & Communications Manager)|https://jobs.ashbyhq.com/change/96bb3ac2-797f-4b61-9f02-143d6788bf53",
@@ -331,7 +352,10 @@
   "fails": 0
  },
  "Joseph Rowntree Charitable Trust": {
-  "seen": [],
+  "seen": [
+   "Communications and engagement officer, reparations|https://jrct.org.uk/job-vacancies",
+   "application portal|https://hr.breathehr.com/recruitment/vacancies/49435"
+  ],
   "fails": 0
  },
  "Anti-Slavery International": {
@@ -343,10 +367,10 @@
   "fails": 0
  },
  "Fair Trials": {
-  "fails": 1
+  "fails": 2
  },
  "Global Justice Now": {
-  "fails": 1
+  "fails": 2
  },
  "Joint Council for the Welfare of Immigrants": {
   "seen": [],
@@ -422,7 +446,11 @@
   "fails": 0
  },
  "Finance Innovation Lab": {
-  "fails": 1
+  "seen": [
+   "general tips for candidates|https://financeinnovationlab.org/wp-content/uploads/2025/01/Recruitment-at-the-Lab-guidance-for-website-PDF.pdf",
+   "recruitment insights blog|https://financeinnovationlab.org/recruitment-insights-movement-building-and-campaigns-lead/"
+  ],
+  "fails": 0
  },
  "Publish What You Pay": {
   "seen": [],
@@ -566,7 +594,7 @@
  },
  "Redress": {
   "seen": [],
-  "fails": 0
+  "fails": 1
  },
  "Runnymede Trust": {
   "seen": [
@@ -628,7 +656,9 @@
   "fails": 0
  },
  "Bennett Institute for Public Policy": {
-  "seen": [],
+  "seen": [
+   "Research Assistant/Research Associate (Fixed Term)|https://www.bennettschool.cam.ac.uk/about-us/vacancy/research-assistant-research-associate-fixed-term/"
+  ],
   "fails": 0
  },
  "British Future": {
