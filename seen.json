@@ -65,7 +65,7 @@
   "fails": 0
  },
  "Ember": {
-  "fails": 2
+  "fails": 3
  },
  "Global Canopy": {
   "seen": [
@@ -367,10 +367,10 @@
   "fails": 0
  },
  "Fair Trials": {
-  "fails": 2
+  "fails": 3
  },
  "Global Justice Now": {
-  "fails": 2
+  "fails": 3
  },
  "Joint Council for the Welfare of Immigrants": {
   "seen": [],
@@ -594,7 +594,7 @@
  },
  "Redress": {
   "seen": [],
-  "fails": 1
+  "fails": 0
  },
  "Runnymede Trust": {
   "seen": [
