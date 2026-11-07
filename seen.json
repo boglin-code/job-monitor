@@ -65,7 +65,7 @@
   "fails": 0
  },
  "Ember": {
-  "fails": 3
+  "fails": 4
  },
  "Global Canopy": {
   "seen": [
@@ -367,10 +367,10 @@
   "fails": 0
  },
  "Fair Trials": {
-  "fails": 3
+  "fails": 4
  },
  "Global Justice Now": {
-  "fails": 3
+  "fails": 4
  },
  "Joint Council for the Welfare of Immigrants": {
   "seen": [],
@@ -524,6 +524,7 @@
  },
  "Children's Investment Fund Foundation": {
   "seen": [
+   "Head of Digital and Technology Solutions|https://apply.workable.com/j/B4705AC10B",
    "Join our Talent Pool|https://apply.workable.com/j/C4B913E8E6"
   ],
   "fails": 0
