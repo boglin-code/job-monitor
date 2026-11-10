@@ -65,7 +65,7 @@
   "fails": 0
  },
  "Ember": {
-  "fails": 10
+  "fails": 11
  },
  "Global Canopy": {
   "seen": [
@@ -128,9 +128,12 @@
  },
  "Big Brother Watch": {
   "seen": [
+   "Legal and Policy Officer|https://bigbrotherwatch.org.uk/work-with-us/",
    "Operations Manager|https://bigbrotherwatch.org.uk/work-with-us/",
    "job information pack here.|https://bigbrotherwatch.org.uk/wp-content/uploads/2026/09/Operations-Manager-Job-Information-Pack-Sept-2026.pdf",
-   "outlined in this document.|https://bigbrotherwatch.org.uk/wp-content/uploads/2026/09/Operations-Manager-Job-Information-Pack-Sept-2026.pdf"
+   "job information pack here.|https://bigbrotherwatch.org.uk/wp-content/uploads/2026/11/Legal-and-Policy-Officer-Job-Information-Pack-Nov-2026.pdf",
+   "outlined in this document.|https://bigbrotherwatch.org.uk/wp-content/uploads/2026/09/Operations-Manager-Job-Information-Pack-Sept-2026.pdf",
+   "outlined in this document.|https://bigbrotherwatch.org.uk/wp-content/uploads/2026/11/Legal-and-Policy-Officer-Job-Information-Pack-Nov-2026.pdf"
   ],
   "fails": 0
  },
@@ -367,10 +370,10 @@
   "fails": 0
  },
  "Fair Trials": {
-  "fails": 10
+  "fails": 11
  },
  "Global Justice Now": {
-  "fails": 10
+  "fails": 11
  },
  "Joint Council for the Welfare of Immigrants": {
   "seen": [],
