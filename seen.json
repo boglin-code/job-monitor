@@ -66,7 +66,7 @@
   "fails": 0
  },
  "Ember": {
-  "fails": 13
+  "fails": 14
  },
  "Global Canopy": {
   "seen": [
@@ -372,10 +372,10 @@
   "fails": 0
  },
  "Fair Trials": {
-  "fails": 13
+  "fails": 14
  },
  "Global Justice Now": {
-  "fails": 13
+  "fails": 14
  },
  "Joint Council for the Welfare of Immigrants": {
   "seen": [],
@@ -482,7 +482,9 @@
    "Francophone Africa Regional Manager|https://ejfoundation.org/jobs/francophone-africa-regional-manager",
    "Francophone Africa Regional Manager|https://ejfoundation.org/jobs/francophone-africa-regional-manager?token=NSE8Pwi84HnQM9DjsaTZ8KgUwdh6ey5w&x-craft-live-preview=e64167366ac1f4050477bb73705749e5f35b5a3057125d8371057366698844fdfykkfgqlap",
    "Head of Finance|https://ejfoundation.org/jobs",
-   "Head of Finance|https://ejfoundation.org/jobs/global-head-of-finance?token=6j3-jf-rf4b0qYPhL3JhTmHJl_ahMITF&x-craft-preview=b04bab6c91c9d5fdf5e6997eb3b7ef94d9dc08221c2edacb0023e1d9562f88d8jyafivyzqi"
+   "Head of Finance|https://ejfoundation.org/jobs/global-head-of-finance?token=6j3-jf-rf4b0qYPhL3JhTmHJl_ahMITF&x-craft-preview=b04bab6c91c9d5fdf5e6997eb3b7ef94d9dc08221c2edacb0023e1d9562f88d8jyafivyzqi",
+   "National Advocacy Consultant - Philippines|https://ejfoundation.org/jobs",
+   "National Advocacy Consultant - Philippines|https://ejfoundation.org/jobs/national-advocacy-consultant-philippines"
   ],
   "fails": 0
  },
