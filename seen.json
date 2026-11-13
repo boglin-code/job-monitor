@@ -66,7 +66,7 @@
   "fails": 0
  },
  "Ember": {
-  "fails": 16
+  "fails": 17
  },
  "Global Canopy": {
   "seen": [
@@ -240,7 +240,10 @@
  },
  "Projects by IF": {
   "seen": [
-   "Freelance Senior Technical Advisor|https://jobs.ashbyhq.com/projectsbyif/11983c7d-5744-4586-ab60-0b5c17318559"
+   "Freelance Senior AI Engineer|https://jobs.ashbyhq.com/projectsbyif/cb7c556d-f241-4677-b7e3-8df8599ce260",
+   "Freelance Senior Technical Advisor (Spanish or Portuguese Speaking)|https://jobs.ashbyhq.com/projectsbyif/11983c7d-5744-4586-ab60-0b5c17318559",
+   "Freelance Senior Technical Advisor|https://jobs.ashbyhq.com/projectsbyif/11983c7d-5744-4586-ab60-0b5c17318559",
+   "Freelance System Engineer / Technical Architect|https://jobs.ashbyhq.com/projectsbyif/baa8fa46-9071-43d5-bc4f-b5d8675086d2"
   ],
   "fails": 0
  },
@@ -374,10 +377,10 @@
   "fails": 0
  },
  "Fair Trials": {
-  "fails": 16
+  "fails": 17
  },
  "Global Justice Now": {
-  "fails": 16
+  "fails": 17
  },
  "Joint Council for the Welfare of Immigrants": {
   "seen": [],
